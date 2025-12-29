@@ -51,17 +51,33 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![Maalik's Trophies](https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![Maalik's Stats](https://github-readme-stats.vercel.app/api?username=maalikhassan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Maalik's Streak](https://github-readme-streak-stats.demolab.com/?user=maalikhassan&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=maalikhassan&theme=dark&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+### ✍️ Quote Of The Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+
 
 ---
 
