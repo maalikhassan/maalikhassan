@@ -53,16 +53,20 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Maalik's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maalikhassan&theme=dark&hide_border=false" alt="Maalik's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Maalik's Top Langs" />
-</div>
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=maalikhassan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Maalik's Stats" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=maalikhassan&theme=dark&hide_border=true" alt="Maalik's Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+
 </div>
 
 ### ✍️ Quote of the Day
@@ -70,21 +74,16 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote" />
 </div>
 
-### 🔝 Top Contributions
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</div>
-
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maalik-hassan)
+<a href="https://www.linkedin.com/in/maalik-hassan">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=maalikhassan&icon=10&color=0" alt="Visitor Count" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
 
 </div>
