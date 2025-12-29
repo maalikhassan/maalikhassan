@@ -52,27 +52,16 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</a>
+![Maalik's Trophies](https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
+![Maalik's Stats](https://github-readme-stats.vercel.app/api?username=maalikhassan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Maalik's Streak](https://github-readme-streak-stats.demolab.com/?user=maalikhassan&theme=dark&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=maalikhassan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Maalik's Stats" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=maalikhassan&theme=dark&hide_border=true" alt="Maalik's Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&layout=compact&theme=dark&hide_border=true)
 
 ### ✍️ Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote" />
-</div>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
