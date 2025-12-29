@@ -70,13 +70,14 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/maalik-hassan">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
+</div>
 
-<a href="https://www.linkedin.com/in/maalik-hassan">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
-
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
