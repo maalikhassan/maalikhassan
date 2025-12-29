@@ -51,7 +51,7 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -59,27 +59,15 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=maalikhassan&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-### ✍️ Quote Of The Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-
-
 ---
+
+### ✍️ Quote Of The Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <div align="center">
 
