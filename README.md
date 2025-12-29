@@ -51,6 +51,8 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -60,7 +62,6 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
@@ -69,15 +70,18 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/maalik-hassan">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
-</div>
+<br>
 
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/maalik-hassan">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
 </div>
