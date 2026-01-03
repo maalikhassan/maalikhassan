@@ -57,7 +57,7 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2026" alt="Maalik's Stats" />
-  <img src="https://streak-stats.demolab.com?user=maalikhassan&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&v=2026" alt="Maalik's Streak" />
+  <img src="[https://streak-stats.demolab.com](https://github-readme-streak-stats-eight.vercel.app)?user=maalikhassan&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&v=2026" alt="Maalik's Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2026" alt="Top Languages" />
 </p>
 
