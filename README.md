@@ -70,20 +70,18 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 
 ### ✍️ Quote Of The Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
 
-<br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 
-<a href="https://www.linkedin.com/in/maalik-hassan">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <br/><br/>
 
-<br>
+  <a href="https://www.linkedin.com/in/maalik-hassan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
+  
+  <img src="https://komarev.com/ghpvc/?username=maalikhassan&style=for-the-badge&color=blue" height="30" alt="Visitor Count" />
 
-<img src="https://komarev.com/ghpvc/?username=maalikhassan&style=flat-square&color=blue" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Found%20anything%20useful%20or%20interesting?%20Give%20it%20a%20Star!%20⭐&fontSize=15&fontAlignY=7" width="100%"/>
 
 </div>
