@@ -73,12 +73,10 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 <div align="center">
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/maalik-hassan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
   
-  <img src="https://komarev.com/ghpvc/?username=maalikhassan&style=for-the-badge&color=blue" height="30" alt="Visitor Count" />
+  <br />
+
+  <img src="https://img.shields.io/badge/Connect_with_me-151515?style=for-the-badge&logoColor=white" height="30" alt="Connect with me" /><a href="https://www.linkedin.com/in/maalik-hassan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a> &nbsp; <img src="https://komarev.com/ghpvc/?username=maalikhassan&style=for-the-badge&color=blue" height="30" alt="Visitor Count" />
 
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
 
