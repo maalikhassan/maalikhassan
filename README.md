@@ -63,10 +63,10 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
  <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) -->
 
----
+--- 
 
 ### ✍️ Quote Of The Day
 
