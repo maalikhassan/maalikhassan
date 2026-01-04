@@ -56,12 +56,12 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 ### 📊 GitHub Stats:
 
 <p align="center">
- `<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Maalik's Stats" />`
+ <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Maalik's Stats" /> -->
   
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=maalikhassan&theme=dark&hide_border=false" alt="Maalik's Streak" />
   
- `<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>`
+ <!--<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maalikhassan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maalikhassan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
