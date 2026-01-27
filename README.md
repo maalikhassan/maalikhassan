@@ -15,7 +15,7 @@ I am a **Mechanical Engineer** turned **Software Developer** with a passion for 
 - 🌱 I’m currently learning **Spring Boot**, **AWS**, and **Advanced SQL**.
 - 💡 I love turning "3 AM ideas" into working prototypes (ask me about my Shared Reader app!).
 - 👯 I’m looking to collaborate on **Open Source Java Projects** and **SaaS products**.
-- ⚡ **Fun fact:** I maintain a daily commit streak because consistency is key (just like in Martial Arts! 🥋).
+- ⚡ **Fun fact:** I tend to visualize the end to end process once a requirement is given before actually starting to develop anything, So expect a lot of questions and discussions.
 
 ---
 
